@@ -12,8 +12,9 @@
 - 📫 How to reach me **surakshak2409@gmail.com**
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraksha-s-salian-5b6288230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraksha-s-salian-5b6288230/" height="30" width="40" /></a>
