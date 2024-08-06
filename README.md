@@ -10,10 +10,11 @@
 - 🌱 I’m currently learning **Data Science , Machine learning , Generative AI**
 
 - 📫 How to reach me **surakshak2409@gmail.com**
-
-- ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+- ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
+
 <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
