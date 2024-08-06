@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Suraksha S Salian</h1>
+<h1 align="center">Hi 👋 I'm Suraksha S Salian</h1>
  
 <h3 align="center">Data enthusiast with a passion for innovation and an insatiable curiosity.</h3>
 
@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning **Data Science , Machine learning , Generative AI**
 
 - 📫 How to reach me **surakshak2409@gmail.com**
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+ 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live.**
-
+ <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
 
 
